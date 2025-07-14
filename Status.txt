@@ -1,9 +1,0 @@
-Version :>  1_4 AID MOBAREK
-   WARNING :> Play Smartly GlobAl  fov=>50 ,  magic  range =>50 safe.
-   GLobal  :> Now full safe updated onile .
-   Korian  :> FULL SAFE 
-   Vetnam  :> Safe.
-   Taiwan  :> Safe.
-   Status  :> All Vertion Safe.
-   DEbug   :> fixed all ISSUE.
-   Updated :> 14/03/2025.
